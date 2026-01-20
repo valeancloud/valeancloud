@@ -1,5 +1,6 @@
-**👋 Hi there, I'm Andrews, a Cloud Computing Engineer.**
-I’m a self‑driven cloud engineer who learns best by getting my hands dirty. I love spinning up systems in AWS, tearing them down, and rebuilding them just to see how they behave in the real world. Most of my work revolves around designing secure, scalable, and automated infrastructure while pushing myself toward more advanced AWS certifications. I’m always experimenting with new ideas, breaking things on purpose, and figuring out smarter ways to put them back together.
+**👋 Hi there, I'm Andrews, a Cloud Computing Engineer**
+
+I’m a self‑driven cloud engineer who learns best by getting my hands dirty. I love spinning up systems in AWS, tearing them down, and rebuilding them just to see how they behave in the real world. I’m always experimenting with new ideas, breaking things on purpose, and figuring out smarter ways to put them back together. Most of my work revolves around designing secure, scalable, and automated infrastructure while pushing myself toward more advanced AWS certifications.
 
 ## **🚀 What I Do**
 
@@ -19,7 +20,7 @@ Currently, I’m practicing cloud engineering through personal projects and labs
 - ☁️ **AWS:** EC2, S3, VPC, IAM, Lambda, CloudWatch, DynamoDB, ECR  
 - 🐳 **Containerization:** Docker, ECS Fargate  
 - 🛰️ **Serverless:** Lambda, API Gateway, Step Functions  
-- 🏗️ **IaC:** Terraform (including LZA patterns), Terragrunt  
+- 🏗️ **IaC:** Terraform
 
 ### 🛠️ DevOps & Automation
 - 🤖 **CI/CD:** GitHub Actions, AWS CodePipeline, Jenkins  
@@ -27,7 +28,7 @@ Currently, I’m practicing cloud engineering through personal projects and labs
 - 📈 **Monitoring & Logging:** CloudWatch, Grafana, OpenSearch  
 
 ### 🧰 Tools & Practices
-- 🗂️ **Version Control:** Git, GitHub, Bitbucket  
+- 🗂️ **Version Control:** Git, GitHub
 - 🤝 **Agile Workflow:** Jira, Confluence  
 - 🧩 **Architecture Design:** Markdown-based diagrams, Mermaid
 
