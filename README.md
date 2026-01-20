@@ -5,7 +5,7 @@
 
 **👋 Hi there, I'm Andrews, an AWS Solutions Architect**
 
-I’m a self‑driven cloud engineer who learns best by getting my hands dirty. I love spinning up systems in AWS, tearing them down, and rebuilding them just to see how they behave in the real world. I’m always experimenting with new ideas, breaking things on purpose, and figuring out smarter ways to put them back together. Most of my work revolves around designing secure, scalable, and automated infrastructure while pushing myself toward more advanced AWS certifications.
+I’m a self‑driven Solutions Architect who learns best by getting my hands dirty. I love spinning up systems in AWS, tearing them down, and rebuilding them just to see how they behave in the real world. I’m always experimenting with new ideas, breaking things on purpose, and figuring out smarter ways to put them back together. Most of my work revolves around designing secure, scalable, and automated infrastructure while pushing myself toward more advanced AWS certifications.
 
 ## **🚀 What I Do**
 
