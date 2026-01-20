@@ -1,7 +1,4 @@
-<p align="center">
-  <img src="https://d1.awsstatic.com/training-and-certification/badges/aws-certified-cloud-practitioner.png" width="120" />
-  <img src="https://d1.awsstatic.com/training-and-certification/badges/aws-certified-solutions-architect-associate.png" width="120" />
-</p>
+
 
 **👋 Hi there, I'm Andrews, a Cloud Computing Engineer**
 
