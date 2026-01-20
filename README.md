@@ -1,8 +1,7 @@
 **👋 Hi there, I'm Andrews, a Cloud Computing Engineer.**
+I’m a self‑driven cloud engineer who learns best by getting my hands dirty. I love spinning up systems in AWS, tearing them down, and rebuilding them just to see how they behave in the real world. Most of my work revolves around designing secure, scalable, and automated infrastructure while pushing myself toward more advanced AWS certifications. I’m always experimenting with new ideas, breaking things on purpose, and figuring out smarter ways to put them back together.
 
-I’m a self-driven cloud engineer building hands-on experience with AWS and DevOps practices. I focus on designing secure, scalable, and automated infrastructure while studying for advanced certifications. I enjoy experimenting with real-world projects to strengthen my cloud architecture skills.
-
-🚀 What I Do
+## **🚀 What I Do**
 
 Currently, I’m practicing cloud engineering through personal projects and labs, with recent work including:
 
@@ -15,28 +14,35 @@ Currently, I’m practicing cloud engineering through personal projects and labs
 - Hosting static websites on S3 with CloudFront
 - Experimenting with API Gateway for serverless endpoints
 
-🔧 My Toolbox
+## **🔧 My Toolbox**
+### ☁️ Cloud & Infrastructure
+- ☁️ **AWS:** EC2, S3, VPC, IAM, Lambda, CloudWatch, DynamoDB, ECR  
+- 🐳 **Containerization:** Docker, ECS Fargate  
+- 🛰️ **Serverless:** Lambda, API Gateway, Step Functions  
+- 🏗️ **IaC:** Terraform (including LZA patterns), Terragrunt  
 
-☁️ **Cloud & Infrastructure**  
-- AWS: EC2, ECS, RDS, S3, VPC, IAM, Lambda  
-- IaC: Terraform  
-- Containers: Docker  
-- Serverless: Lambda, API Gateway, S3 hosting  
+### 🛠️ DevOps & Automation
+- 🤖 **CI/CD:** GitHub Actions, AWS CodePipeline, Jenkins  
+- 🔄 **Config Management:** Ansible  
+- 📈 **Monitoring & Logging:** CloudWatch, Grafana, OpenSearch  
 
-💬 A Bit More About Me
+### 🧰 Tools & Practices
+- 🗂️ **Version Control:** Git, GitHub, Bitbucket  
+- 🤝 **Agile Workflow:** Jira, Confluence  
+- 🧩 **Architecture Design:** Markdown-based diagrams, Mermaid
 
-Passionate about hands-on cloud learning and building real-world projects.  
-Currently focused on advanced AWS services, automation, and cloud-native architecture.  
-Exploring Python for AWS scripting and learning best practices for cloud solutions. 
-AWS Solutions Architect – Professional in progress.
+## 💬 A Bit More About Me
+- Hands-on cloud learner who builds by experimenting and breaking things down.
+- Focused on AWS architecture, automation, and real-world cloud patterns.
+- Growing my Python skills for AWS scripting and workflow automation.
+- AWS Cloud Practitioner + SAA; working toward Solutions Architect – Professional.
 
-📚 Projects & Learning
+## 📚 Projects & Learning
+- Recreating real-world AWS environments to understand architecture behavior.
+- Building with Terraform, event-driven designs, and containerized workloads.
+- Exploring advanced AWS services like Step Functions, KMS, and CloudTrail.
+- Preparing for additional AWS certifications to deepen expertise.
 
-- Practicing AWS-based project scenarios to simulate real-world cloud architectures  
-- Building skills in Terraform, serverless design, and containerized applications  
-- Preparing for additional AWS certifications to deepen cloud expertise  
-
-📫 Let’s Connect
-
-Open to collaborating on cloud projects and learning initiatives.  
-Excited to grow with and contribute to the cloud engineering community!
+## 📫 Let’s Connect
+- Open to collaborating on cloud builds, learning projects, and knowledge sharing.
+- Always looking to grow with and contribute to the cloud engineering community.
