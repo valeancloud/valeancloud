@@ -1,3 +1,8 @@
+<p align="center">
+  <img src="https://d1.awsstatic.com/training-and-certification/badges/aws-certified-cloud-practitioner.png" width="120" />
+  <img src="https://d1.awsstatic.com/training-and-certification/badges/aws-certified-solutions-architect-associate.png" width="120" />
+</p>
+
 **👋 Hi there, I'm Andrews, a Cloud Computing Engineer**
 
 I’m a self‑driven cloud engineer who learns best by getting my hands dirty. I love spinning up systems in AWS, tearing them down, and rebuilding them just to see how they behave in the real world. I’m always experimenting with new ideas, breaking things on purpose, and figuring out smarter ways to put them back together. Most of my work revolves around designing secure, scalable, and automated infrastructure while pushing myself toward more advanced AWS certifications.
