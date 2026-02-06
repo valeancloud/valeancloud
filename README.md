@@ -26,6 +26,16 @@ Currently, I’m practicing cloud engineering through personal projects and labs
 - 🐳 **Containerization:** Docker, ECS Fargate  
 - 🛰️ **Serverless:** Lambda, API Gateway, Step Functions  
 - 🏗️ **IaC:** Terraform
+  
+ ### 🛡️ Security
+- 🔍 **Network Scanning & Enumeration:** Nmap, Netcat  
+- 🧪 **Vulnerability Assessment:** Nikto, OpenVAS  
+- 🔐 **Credential & Access Management:** AWS IAM, MFA enforcement, least‑privilege design  
+- 🧱 **System Hardening:** SSH configuration, firewall rules (UFW, iptables), secure key management  
+- 🌐 **Traffic & Packet Analysis:** tcpdump, Wireshark  
+- 🛡️ **Endpoint & OS Security:** Fail2ban, auditd, log analysis  
+- 📦 **Package & Dependency Security:** GPG verification, repository integrity checks  
+- 🔎 **Monitoring & Detection:** CloudWatch metrics/alarms, GuardDuty findings review
 
 ### 🛠️ DevOps & Automation
 - 🤖 **CI/CD:** GitHub Actions, AWS CodePipeline, Jenkins  
