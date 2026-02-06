@@ -51,7 +51,9 @@ Currently, I’m practicing cloud engineering through personal projects and labs
 - Hands-on cloud learner who builds by experimenting and breaking things down.
 - Focused on AWS architecture, automation, and real-world cloud patterns.
 - Growing my Python skills for AWS scripting and workflow automation.
-- AWS Cloud Practitioner + SAA; working toward Solutions Architect – Professional.
+- AWS Cloud Practitioner + SAA
+- Working toward Solutions Architect – Professional
+- Working toward Certified Security – Specialty
 
 ## 📚 Projects & Learning
 - Recreating real-world AWS environments to understand architecture behavior.
